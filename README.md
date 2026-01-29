@@ -23,7 +23,7 @@ emerging and evolving over time.
 
 ### The Physics Effect  
 *A foundational grammar for knowledge, philosophy,
-AI, global communication, and human cooperation*
+AI, global communication, and human cooperation contexts*
 
 At the core of this work lies a simple but radical premise:
 
@@ -95,7 +95,7 @@ operate under real-world uncertainty.
 ---
 
 ### Law — Knowledge & AI in Service of Justice  
-**Function:** Normative architecture
+**Function:** Normative context
 
 Transfers state-based reasoning from medicine
 to legal systems and societal decision-making.
@@ -105,7 +105,7 @@ to legal systems and societal decision-making.
 ### Economics — Sincerity in the Macro-Organism World  
 **Function:** Economic structure
 
-Reinterprets economics after scarcity,
+Reinterprets economics beyond scarcity,
 automation, and algorithmic coordination.
 
 ---
