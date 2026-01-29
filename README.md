@@ -11,11 +11,13 @@ Organizing complex decision-making across software, science, and human cooperati
 This repository is the **entry point to my work**.
 
 An evolving research program on **structure, knowledge, decision-making, and responsibility**,  
-designed to make reasoning **explicit, inspectable, and accountable**.
+designed to make reasoning **explicit, inspectable, and accountable**,
+and to **systematically exclude implicit authority**.
 
 This is not a finished body of work.
 It is a structurally coherent framework,
 emerging and evolving over time.
+Its epistemic admissibility rules — which systematically exclude implicit authority — are defined separately in a dedicated core repository (`research-program`).
 
 ---
 
@@ -142,6 +144,7 @@ grounded in structural coherence over time.
 
 This repository is intentionally minimal.
 It serves as a stable entry point, not a personal status feed.
+It does not argue, persuade, or optimize — it defines structure.
 
 Contributions, discussions, and applications are welcome —
 within the shared structure of the research program.
