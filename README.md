@@ -140,6 +140,9 @@ This repository is **alive**.
 The goal is long-term completeness,
 grounded in structural coherence over time.
 
+This repository is intentionally minimal.
+It serves as a stable entry point, not a personal status feed.
+
 Contributions, discussions, and applications are welcome —
 within the shared structure of the research program.
 
