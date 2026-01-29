@@ -1,6 +1,6 @@
 # Ekkehard Finkeissen
 
-Author · Software Developer · Researcher
+Developer · Author · Researcher
 
 Organizing complex decision-making across software, science, and human cooperation.
 
@@ -11,13 +11,17 @@ Organizing complex decision-making across software, science, and human cooperati
 This repository is the **entry point to my work**.
 
 An evolving research program on **structure, knowledge, decision-making, and responsibility**,  
-designed to make reasoning **explicit, inspectable, and accountable**,
-and to **systematically exclude implicit authority**.
+designed to make reasoning **explicit, inspectable, and accountable**,  
+and to systematically exclude implicit authority.
+
+Any claim not bound to an explicit problem context is treated as epistemically inadmissible and must halt further processing.
 
 This is not a finished body of work.
 It is a structurally coherent framework,
 emerging and evolving over time.
-Its epistemic admissibility rules — which systematically exclude implicit authority — are defined separately in a dedicated core repository (`research-program`).
+
+Its epistemic admissibility rules — which systematically exclude implicit authority —
+are defined separately in a dedicated core repository (`research-program`).
 
 ---
 
