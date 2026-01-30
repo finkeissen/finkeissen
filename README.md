@@ -102,7 +102,7 @@ This structure ensures:
 - **Medicine — Knowledge & AI in Service of Health**  
   Applies the architecture to medical decision-making under real-world uncertainty.
 
-- **Law — Knowledge & AI in Service of Justice**  
+- **Legal-Law — Knowledge & AI in Service of Justice**  
   Transfers state-based reasoning and responsibility structures into legal contexts.
 
 - **Economics — Sincerity in the Macro-Organism World**  
