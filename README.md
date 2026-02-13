@@ -1,35 +1,46 @@
 # Ekkehard Finkeissen
 
-Developer · Author · Researcher
+Researcher · Author · Developer
 
 Organizing complex decision-making across software, science, and human cooperation.
 
 ---
 
-## Overview
+# Overview
 
 This repository serves as the **entry point** to my work.
 
-It contains an evolving research program concerned with:
+It provides orientation, context, and a high-level view of an evolving
+research program concerned with:
 
-- **structure**
-- **knowledge**
-- **decision-making**
-- **responsibility**
+- structure
+- knowledge
+- decision-making
+- responsibility
 
-The program is designed to make reasoning:
+The goal of this work is to make reasoning:
 
 - explicit
 - inspectable
 - accountable
 
-and to **systematically exclude implicit authority**.
+and to systematically exclude **implicit authority**.
 
-Any claim that is not explicitly bound to a concrete problem context  
-is treated as **epistemically inadmissible**  
+---
+
+## Core Principle
+
+Any claim that is not explicitly bound to a concrete problem context
+is treated as **epistemically inadmissible**
 and must halt further processing.
 
-This is **not** a finished body of work.
+This principle applies across all repositories in this space.
+
+---
+
+## Status of the Work
+
+This is not a finished body of work.
 
 It is a **structurally coherent framework** that is:
 
@@ -37,55 +48,62 @@ It is a **structurally coherent framework** that is:
 - evolving
 - deliberately constrained over time
 
-The epistemic admissibility rules governing this framework  
-— including the systematic exclusion of implicit authority —  
-are defined separately in a dedicated core repository:
-
-- `research-program`
+Change is intentional and sequential, not parallel or opportunistic.
 
 ---
 
-## The Research Program
+## Architectural Overview
 
-### The Physics Effect  
-*A foundational grammar for knowledge, philosophy, AI, global communication, and human cooperation*
+The work is organized across several dedicated repositories,
+each with a clearly defined role:
 
-At the core of this work lies a single, radical premise:
+- **research-program**  
+  Defines the epistemic admissibility rules, constraints,
+  and STOP conditions governing the entire framework.
 
-> Reality is not composed of things,  
-> but of **effects, relations, and transformations**.
+- **legacy**  
+  A foundational reference space capturing prior assumptions,
+  contradictions, patterns, and limits that exist *before*
+  formalization or operationalization.
+
+- **mms (Matrix Management System)**  
+  An operative system that manages admissible claims and relations
+  under explicit constraints, without introducing authority.
+
+- **matrix**  
+  A structured record of instantiated, problem-bound artifacts
+  produced under the constraints defined upstream.
+
+This repository does not replace any of these.
+It exists to **connect, contextualize, and orient** them.
+
+---
+
+## The Physics Effect
+
+At the core of this work lies a single, foundational premise:
+
+> **Reality is not composed of things,  
+> but of effects, relations, and transformations.**
 
 From this follows:
 
-- knowledge does not arise from representation
+- knowledge does not arise from representation  
 - knowledge arises from **measurement as interaction**
 
-All books and repositories in this space:
+This premise functions as a *grammar* rather than a theory.
+It constrains how claims may be formed,
+not which conclusions must be reached.
 
-- apply this grammar
-- across multiple domains
-- without modifying its foundational constraints
-
----
-
-## Structure of the Work
-
-The program is developed **sequentially and deliberately**.
-
-At any given time:
-
-- only **one** book or module is actively evolved
-- all others serve as **stable, read-only context**
-
-This structure ensures:
-
-- conceptual consistency
-- traceable decisions
-- long-term responsibility of thought
+All books and repositories in this space apply this grammar
+across multiple domains without modifying its foundational constraints.
 
 ---
 
 ## Books
+
+The following books apply the shared architecture and grammar
+to different domains and levels of abstraction:
 
 - **Bootloader for the Research Program**  
   Defines the minimal epistemic grammar required to articulate problems without premature meaning, narrative, or solution bias.
