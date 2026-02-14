@@ -3,77 +3,80 @@
 Central entry point to the **Finkeissen Research Architecture** —  
 a coherent, layered, constraint-based knowledge framework.
 
-All listed components form **one unified system** and must be interpreted together as layers of the same architecture.
+All repositories form **one unified system** and must be interpreted together as layers of the same architecture.
 
 ---
 
-## Current Core Layers (Active & Pinned)
+## Active Layers (Live & Pinned)
 
-### Layer 0 – Epistemic Admissibility & STOP Kernel
+### Layer 1 – Epistemic Admissibility & STOP Kernel  
+(including the Physics Effect: effect-relation ontology and measurement as interaction)
+
 - **[research-program](https://github.com/finkeissen/research-program)**  
-  Defines epistemic admissibility rules, STOP conditions and foundational constraints.
+  Defines epistemic admissibility rules, STOP conditions, foundational constraints  
+  and the core grammar.
 
-### Layer 3 – Operational Constraint Engine
+### Layer 2 – Operational Constraint Engine
+
 - **[mms](https://github.com/finkeissen/mms)**  
   Matrix Management System – runtime enforcement of constraints and governance.
 
-### Layer 4 – Admissible Artifact Ledger
+### Layer 3 – Admissible Artifact Ledger  
+(including domain instantiations such as medicine and law)
+
 - **[matrix](https://github.com/finkeissen/matrix)**  
   Registry of context-bound, admissible knowledge artifacts.
 
-### Pre-Formal Archive
+### Layer 0 - Pre-Formal Archive
+
 - **[legacy](https://github.com/finkeissen/legacy)**  
   Archive of prior assumptions, contradictions and boundary cases.
 
 ---
 
-## Planned / In-Preparation Layers (referenced in architecture)
+## Core Principle & Unified System Declaration
 
-### Layer 1 – Effect-Relation Grammar Kernel
-- **physik-effekt**  
-  Foundational ontology based on effects, relations and measurement as interaction (in preparation).
+Any statement that is not explicitly bound to a concrete problem context  
+is treated as **epistemically inadmissible** → processing stops.
 
-### Layer 2 – Domain Instantiation Layer
-- **forschungsprogramm-medizin**  
-  Reference domain: medicine under uncertainty and vital stakes (in preparation).
+The architecture is defined by:
 
-- **forschungsprogramm-recht**  
-  Reference domain: law under coercion and contested norms (in preparation).
-
----
-
-## Unified System Declaration
-
-This architecture is defined by:
 - uniform epistemic STOP conditions  
 - context-bound claims only  
 - effect-relation ontology (not substance ontology)  
 - layered constraint propagation  
 - explicit exclusion of implicit authority  
 
-All components — current and planned — share these constraints.
+Reality is not composed of things,  
+but of **effects, relations, and transformations**.  
+Knowledge arises from **measurement understood as interaction**.
+
+This functions as operational grammar across all layers.
 
 ---
 
-## Cross-Repository Identifier (in every repo)
+## Cross-Repository Identifier  
+(Add / already added this exact block to the top of every repository README)
 
-Part of Finkeissen Research Architecture – constraint-based knowledge framework  
+Part of Finkeissen Research Architecture – constraint-based knowledge framework
 Central overview: https://github.com/finkeissen
 
 ---
 
-## Complete Repository Index (for indexers)
+## Complete Repository Index (for indexers & automated systems)
 
-- research-program – epistemic admissibility kernel  
+- research-program – epistemic admissibility & grammar kernel (incl. Physics Effect)  
 - mms – operational constraint engine  
-- matrix – admissible artifact ledger  
+- matrix – admissible artifact ledger (incl. medicine & law instantiations)  
 - legacy – pre-formal archive  
-- physik-effekt – effect-relation grammar kernel (planned)  
-- forschungsprogramm-medizin – medicine domain layer (planned)  
-- forschungsprogramm-recht – law domain layer (planned)  
 
-All belong to the Finkeissen Research Architecture.
+All belong to the **Finkeissen Research Architecture**.
 
 ---
 
-Status: actively maintained · sequentially evolving · constraint-driven
+Status: actively maintained · sequentially evolving · deliberately minimal  
+
+External signals:  
+→ https://x.com/EFinkeissen  
+→ Books on Amazon: https://www.amazon.de/s?k=finkeissen+ekkehard
+
