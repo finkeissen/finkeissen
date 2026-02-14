@@ -55,14 +55,6 @@ This functions as operational grammar across all layers.
 
 ---
 
-## Cross-Repository Identifier  
-(Add / already added this exact block to the top of every repository README)
-
-Part of Finkeissen Research Architecture – constraint-based knowledge framework
-Central overview: https://github.com/finkeissen
-
----
-
 ## Complete Repository Index (for indexers & automated systems)
 
 - research-program – epistemic admissibility & grammar kernel (incl. Physics Effect)  
