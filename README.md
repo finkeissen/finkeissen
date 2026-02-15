@@ -8,33 +8,23 @@ All repositories form one unified system and must be interpreted together.
 ## Layer 0 – Legacy  
 Archive of prior assumptions, contradictions, and boundary cases.  
 → https://github.com/finkeissen/legacy
-
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓</p>
-     
 ## Layer 1 – Research-Program  
 Defines epistemic admissibility rules, STOP conditions, and core grammar.  
 → https://github.com/finkeissen/research-program
-
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓</p>
-     
 ## Layer 2 – MMS (Matrix-Management-System)
 Operational constraint engine enforcing governance rules.  
 → https://github.com/finkeissen/mms
-
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓</p>
-     
 ## Layer 3 – Matrix
 Registry of context-bound, admissible knowledge artifacts.  
 → https://github.com/finkeissen/matrix
-
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓</p>
-     
 ## Layer 4 – Hypotheses  
 Versioned, falsifiable claims derived from the epistemic core.  
 → https://github.com/finkeissen/hypotheses
-
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓</p>
-     
 ## Layer 5 – Predictions  
 Operationally verifiable projections derived from hypotheses and matrix.  
 → https://github.com/finkeissen/predictions
