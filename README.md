@@ -1,7 +1,7 @@
 # Finkeissen Research Architecture
 
 Central entry point to the **Finkeissen Research Architecture** —  
-a coherent, layered, constraint-based knowledge framework.
+a coherent, layered, constraint-based epistemic framework.
 
 All repositories form **one unified system** and must be interpreted together as layers of the same architecture.
 
@@ -9,12 +9,17 @@ All repositories form **one unified system** and must be interpreted together as
 
 ## Active Layers (Live & Pinned)
 
+### Layer 0 – Pre-Formal Archive
+
+- **[legacy](https://github.com/finkeissen/legacy)**  
+  Archive of prior assumptions, contradictions, and boundary cases.
+
 ### Layer 1 – Epistemic Admissibility & STOP Kernel  
 (including the Physics Effect: effect-relation ontology and measurement as interaction)
 
 - **[research-program](https://github.com/finkeissen/research-program)**  
-  Defines epistemic admissibility rules, STOP conditions, foundational constraints  
-  and the core grammar.
+  Defines admissibility rules, STOP conditions, foundational constraints,  
+  and the core epistemic grammar.
 
 ### Layer 2 – Operational Constraint Engine
 
@@ -27,16 +32,22 @@ All repositories form **one unified system** and must be interpreted together as
 - **[matrix](https://github.com/finkeissen/matrix)**  
   Registry of context-bound, admissible knowledge artifacts.
 
-### Layer 0 - Pre-Formal Archive
+### Layer 4 – Falsifiable Claim Layer
 
-- **[legacy](https://github.com/finkeissen/legacy)**  
-  Archive of prior assumptions, contradictions and boundary cases.
+- **[hypotheses](https://github.com/finkeissen/hypotheses)**  
+  Versioned, falsifiable hypotheses derived from the epistemic core.
+
+### Layer 5 – Verifiable Projection Layer
+
+- **[predictions](https://github.com/finkeissen/predictions)**  
+  Operationally verifiable projections derived from hypotheses and matrix,  
+  documented through run manifests and evaluations.
 
 ---
 
 ## Core Principle & Unified System Declaration
 
-Any statement that is not explicitly bound to a concrete problem context  
+Any statement not explicitly bound to a concrete problem context  
 is treated as **epistemically inadmissible** → processing stops.
 
 The architecture is defined by:
@@ -57,9 +68,11 @@ This functions as operational grammar across all layers.
 
 ## Complete Repository Index (for indexers & automated systems)
 
-- research-program – epistemic admissibility & grammar kernel (incl. Physics Effect)  
+- research-program – epistemic admissibility & grammar kernel  
 - mms – operational constraint engine  
-- matrix – admissible artifact ledger (incl. medicine & law instantiations)  
+- matrix – admissible artifact ledger  
+- hypotheses – falsifiable claim layer  
+- predictions – verifiable projection layer  
 - legacy – pre-formal archive  
 
 All belong to the **Finkeissen Research Architecture**.
@@ -71,4 +84,3 @@ Status: actively maintained · sequentially evolving · deliberately minimal
 External signals:  
 → https://x.com/EFinkeissen  
 → Books on Amazon: https://www.amazon.de/s?k=finkeissen+ekkehard
-
