@@ -47,7 +47,5 @@ Any statement not explicitly bound to a concrete problem context is treated as e
 
 ---
 Status: actively maintained · sequentially evolving · deliberately minimal
-
-External references:
-→ https://x.com/EFinkeissen  
-→ Books on Amazon: https://www.amazon.de/s?k=finkeissen+ekkehard
+→ External references: https://x.com/EFinkeissen  
+→ Books: https://www.amazon.de/s?k=finkeissen+ekkehard
