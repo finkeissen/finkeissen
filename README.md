@@ -1,11 +1,12 @@
 # Ekkehard Finkeissen Research Architecture
 
-Central entry point to the **Ekkehard Finkeissen Research Architecture**
+- Central entry point to the **Ekkehard Finkeissen Research Architecture**
+- Coherent and constraint-based epistemic framework
+- All repositories form one pipeline and must be interpreted together
 
-Coherent and constraint-based epistemic framework
-
-All repositories form one pipeline and must be interpreted together
+Core Principle: Any statement not explicitly bound to a concrete problem context is treated as epistemically inadmissible → processing stops
 ---
+
 # Layer 0 – Legacy  
 Archive of prior assumptions, contradictions, and boundary cases.  
 https://github.com/finkeissen/legacy
@@ -40,10 +41,6 @@ https://github.com/finkeissen/hypotheses
 
 Operationally verifiable projections derived from hypotheses and matrix.  
 https://github.com/finkeissen/predictions
-
----
-## Core Principle
-Any statement not explicitly bound to a concrete problem context is treated as epistemically inadmissible → processing stops
 
 ---
 Status: actively maintained · sequentially evolving · deliberately minimal
