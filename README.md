@@ -1,6 +1,6 @@
-# Finkeissen Research Architecture
+# Ekkehard Finkeissen Research Architecture
 
-Central entry point to the **Finkeissen Research Architecture**
+Central entry point to the **Ekkehard Finkeissen Research Architecture**
 Coherent and constraint-based epistemic framework
 
 All repositories form one pipeline and must be interpreted together
