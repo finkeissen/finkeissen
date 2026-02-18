@@ -1,9 +1,11 @@
 # Ekkehard Finkeissen Research Architecture
 
 Central entry point to the **Ekkehard Finkeissen Research Architecture**
-- Coherent and constraint-based epistemic framework
-- All repositories form one pipeline and must be interpreted together
 
+Coherent and constraint-based epistemic framework
+
+All repositories form one pipeline and must be interpreted together
+---
 # Layer 0 – Legacy  
 Archive of prior assumptions, contradictions, and boundary cases.  
 https://github.com/finkeissen/legacy
@@ -45,5 +47,6 @@ Any statement not explicitly bound to a concrete problem context is treated as e
 
 ---
 Status: actively maintained · sequentially evolving · deliberately minimal
+
 → External references: https://x.com/EFinkeissen  
 → Books: https://www.amazon.de/s?k=finkeissen+ekkehard
