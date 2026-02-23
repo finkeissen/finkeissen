@@ -22,9 +22,7 @@ https://github.com/finkeissen/research-program
 Operational constraint engine enforcing governance rules. DBMS for knowledge.
 https://github.com/finkeissen/mms
 
-If Stop ➡️ put in Legacy
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
 # Step 3 – Matrix  
 Registry of context-bound, admissible knowledge artifacts.  
