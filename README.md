@@ -34,7 +34,7 @@ https://github.com/finkeissen/matrix
 Versioned, falsifiable claims derived from the epistemic core.  
 https://github.com/finkeissen/hypotheses
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
 # Step 5 – Predictions  
 Operationally verifiable projections derived from hypotheses and matrix.  
