@@ -6,37 +6,37 @@
 - **Core Principle**: Any statement **not explicitly bound to a concrete problem** context is treated as epistemically inadmissible → **processing stops**
 
 
-# Layer 0 – Legacy  
+# Step 0 – Legacy  
 Archive of prior assumptions, contradictions, and boundary cases.  
 https://github.com/finkeissen/legacy
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-# Layer 1 – Research-Program  
+# Step 1 – Research-Program  
 Epistemic admissibility rules, STOP conditions, and core grammar.  
 https://github.com/finkeissen/research-program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-# Layer 2 – Matrix-Management-System (MMS)
+# Step 2 – Matrix-Management-System (MMS)
 Operational constraint engine enforcing governance rules. DBMS for knowledge.
 https://github.com/finkeissen/mms
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-# Layer 3 – Matrix  
+# Step 3 – Matrix  
 Registry of context-bound, admissible knowledge artifacts.  
 https://github.com/finkeissen/matrix
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-# Layer 4 – Hypotheses  
+# Step 4 – Hypotheses  
 Versioned, falsifiable claims derived from the epistemic core.  
 https://github.com/finkeissen/hypotheses
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-# Layer 5 – Predictions  
+# Step 5 – Predictions  
 Operationally verifiable projections derived from hypotheses and matrix.  
 https://github.com/finkeissen/predictions
 
