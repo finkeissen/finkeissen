@@ -22,12 +22,12 @@ Epistemic admissibility rules, STOP conditions, and core grammar. https://github
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️
 
 ## Step 2 – Matrix-Management-System (MMS)
-Constraint Execution Layer (MMS). Operational constraint engine enforcing epistemic governance across artifacts. https://github.com/finkeissen/mms
+Constraint execution layer enforcing epistemic governance across artifacts. https://github.com/finkeissen/mms
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
 ## Step 3 – Matrix  
-Registry of context-bound, admissible knowledge artifacts. https://github.com/finkeissen/matrix
+Matrix registers admissible knowledge artifacts with their originating context. https://github.com/finkeissen/matrix
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️
 
@@ -40,6 +40,7 @@ Versioned, falsifiable claims derived from the epistemic core. https://github.co
 Operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
 
 **The pipeline is cyclical: artifacts can regress to Legacy when admissibility fails.**
+**Examples → see Matrix repository**
 
 ---
 **What it is NOT**
