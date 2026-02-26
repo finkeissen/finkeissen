@@ -54,6 +54,20 @@ https://github.com/finkeissen/predictions
 - Not an LLM wrapper
 
 ---
+---
+## Research areas
+- epistemic governance  
+- epistemic admissibility  
+- constraint-based reasoning  
+- knowledge provenance  
+- AI safety  
+- hallucination mitigation  
+- scientific workflows for AI  
+- verification of claims  
+- formal reasoning for LLM systems  
+- auditable decision systems
+
+---
 Status: actively maintained · sequentially evolving · deliberately minimal
 
 ---
