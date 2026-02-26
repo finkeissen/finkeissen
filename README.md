@@ -11,39 +11,33 @@ Modern AI systems produce claims without explicit epistemic binding. This pipeli
 
 The following pipeline is a **constraint architecture for epistemic governance**
 
-# Step 0 – Legacy  
-Active sink for inadmissible or unresolved artifacts. 
-https://github.com/finkeissen/legacy
+## Step 0 – Legacy  
+Active sink for inadmissible or unresolved artifacts. https://github.com/finkeissen/legacy
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-# Step 1 – Research-Program (start here!)
-Epistemic admissibility rules, STOP conditions, and core grammar.  
-https://github.com/finkeissen/research-program
+## Step 1 – Research-Program (start here!)
+Epistemic admissibility rules, STOP conditions, and core grammar. https://github.com/finkeissen/research-program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️
 
-# Step 2 – Matrix-Management-System (MMS)
-Constraint Execution Layer (MMS). Operational constraint engine enforcing epistemic governance across artifacts.
-https://github.com/finkeissen/mms
+## Step 2 – Matrix-Management-System (MMS)
+Constraint Execution Layer (MMS). Operational constraint engine enforcing epistemic governance across artifacts. https://github.com/finkeissen/mms
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
-# Step 3 – Matrix  
-Registry of context-bound, admissible knowledge artifacts.
-https://github.com/finkeissen/matrix
+## Step 3 – Matrix  
+Registry of context-bound, admissible knowledge artifacts. https://github.com/finkeissen/matrix
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️
 
-# Step 4 – Hypotheses  
-Versioned, falsifiable claims derived from the epistemic core.  
-https://github.com/finkeissen/hypotheses
+## Step 4 – Hypotheses  
+Versioned, falsifiable claims derived from the epistemic core. https://github.com/finkeissen/hypotheses
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
-# Step 5 – Predictions  
-Operationally verifiable projections derived from hypotheses and matrix.  
-https://github.com/finkeissen/predictions
+## Step 5 – Predictions  
+Operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
 
 **The pipeline is cyclical: artifacts can regress to Legacy when admissibility fails.**
 
