@@ -1,6 +1,6 @@
-# Constraint-based Epistemic Pipeline für Reliable, Auditable, Maximally Truth-Seeking AI
+## Constraint-based Epistemic Pipeline für Reliable, Auditable, Maximally Truth-Seeking AI
 
-## Central entry point to the Ekkehard Finkeissen Research Architecture
+**Central entry point to the Ekkehard Finkeissen Research Architecture**
 - Coherent and constraint-based **epistemic framework**
 - Infrastructure for auditable **knowledge and decision systems**.
 - The repositories together form one **pipeline** and must be interpreted together
@@ -54,7 +54,7 @@ https://github.com/finkeissen/predictions
 - Not an LLM wrapper
 
 ---
-## Research areas
+**Research areas**
 - epistemic governance  
 - epistemic admissibility  
 - constraint-based reasoning  
