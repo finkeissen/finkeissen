@@ -48,7 +48,7 @@ https://github.com/finkeissen/predictions
 **The pipeline is cyclical: artifacts can regress to Legacy when admissibility fails.**
 
 ---
-##What it is NOT##
+**What it is NOT**
 - Not a prompt framework
 - Not a knowledge base
 - Not an LLM wrapper
