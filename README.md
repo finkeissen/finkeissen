@@ -54,7 +54,6 @@ https://github.com/finkeissen/predictions
 - Not an LLM wrapper
 
 ---
----
 ## Research areas
 - epistemic governance  
 - epistemic admissibility  
