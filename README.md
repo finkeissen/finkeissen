@@ -1,32 +1,36 @@
-# Ekkehard Finkeissen Research Architecture
+# Constraint-based Epistemic Pipeline für Reliable, Auditable, Maximally Truth-Seeking AI
 
-- Central entry point to the **Ekkehard Finkeissen Research Architecture**
+## Central entry point to the Ekkehard Finkeissen Research Architecture
 - Coherent and constraint-based **epistemic framework**
 - Infrastructure for auditable **knowledge and decision systems**.
 - The repositories together form one **pipeline** and must be interpreted together
 - **Core Principle**: Any statement not explicitly bound to a concrete problem context is treated as epistemically inadmissible → processing stops
+- Actively exploring pathways to **stabilize AI systems** (e.g. LLMs) against hallucinations and unbound generalizations via epistemic constraints
 
+Modern AI systems produce claims without explicit epistemic binding. This pipeline enforces context-bound admissibility as a hard constraint.
+
+The following pipeline is a **constraint architecture for epistemic governance**
 
 # Step 0 – Legacy  
-Archive of prior assumptions, contradictions, and boundary cases.  
+Active sink for inadmissible or unresolved artifacts. 
 https://github.com/finkeissen/legacy
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-# Step 1 – Research-Program  
+# Step 1 – Research-Program (start here!)
 Epistemic admissibility rules, STOP conditions, and core grammar.  
 https://github.com/finkeissen/research-program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️
 
 # Step 2 – Matrix-Management-System (MMS)
-Operational constraint engine enforcing governance rules. DBMS for knowledge.
+Constraint Execution Layer (MMS). Operational constraint engine enforcing epistemic governance across artifacts.
 https://github.com/finkeissen/mms
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
 # Step 3 – Matrix  
-Registry of context-bound, admissible knowledge artifacts.  
+Registry of context-bound, admissible knowledge artifacts.
 https://github.com/finkeissen/matrix
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↕️ interface ↕️
@@ -41,8 +45,17 @@ https://github.com/finkeissen/hypotheses
 Operationally verifiable projections derived from hypotheses and matrix.  
 https://github.com/finkeissen/predictions
 
+**The pipeline is cyclical: artifacts can regress to Legacy when admissibility fails.**
+
+---
+##What it is NOT##
+- Not a prompt framework
+- Not a knowledge base
+- Not an LLM wrapper
+
 ---
 Status: actively maintained · sequentially evolving · deliberately minimal
 
+---
 → External references: https://x.com/EFinkeissen  
 → Books: https://www.amazon.de/s?k=finkeissen+ekkehard
