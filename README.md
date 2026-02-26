@@ -9,7 +9,7 @@
 
 Modern AI systems produce claims without explicit epistemic binding. This pipeline enforces context-bound admissibility as a hard constraint.
 
-The following pipeline is a **constraint architecture for epistemic governance**
+The following pipeline is a **constraint architecture for epistemic governance** in which admissibility precedes claims.
 
 ## Step 0 – Legacy  
 Active sink for inadmissible or unresolved artifacts. https://github.com/finkeissen/legacy
