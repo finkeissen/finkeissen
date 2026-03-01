@@ -38,6 +38,7 @@ Versioned, falsifiable claims derived from the epistemic core. https://github.co
 
 ## Step 5 – Predictions  
 Operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
+---
 
 **The pipeline is cyclical: artifacts can regress to Legacy when admissibility fails.**
 **Examples → see Matrix repository**
@@ -60,6 +61,11 @@ Operationally verifiable projections derived from hypotheses and matrix. https:/
 - verification of claims  
 - formal reasoning for LLM systems  
 - auditable decision systems
+
+---
+## Life
+An architectural art project based on the research program, yet formally independent. This project is open to thoughtful contributions
+under the terms of the license. https://github.com/finkeissen/life
 
 ---
 Status: actively maintained · sequentially evolving · deliberately minimal
