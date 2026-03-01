@@ -64,5 +64,6 @@ under the terms of the license. https://github.com/finkeissen/life
 
 ---
 Status: actively maintained · sequentially evolving · deliberately minimal
+
 → External references: https://x.com/EFinkeissen  
 → Books: https://www.amazon.de/s?k=finkeissen+ekkehard
