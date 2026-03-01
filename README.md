@@ -6,9 +6,8 @@
 - The repositories together form one **pipeline** and must be interpreted together
 - **Core Principle**: Any statement not explicitly bound to a concrete problem context is treated as epistemically inadmissible → processing stops
 - Actively exploring pathways to **stabilize AI systems** (e.g. LLMs) against hallucinations and unbound generalizations via epistemic constraints
-
 Modern AI systems produce claims without explicit epistemic binding. This pipeline enforces context-bound admissibility as a hard constraint.
-
+---
 The following pipeline is a **constraint architecture for epistemic governance** in which admissibility precedes claims.
 
 ## Step 0 – Legacy  
@@ -38,18 +37,13 @@ Versioned, falsifiable claims derived from the epistemic core. https://github.co
 
 ## Step 5 – Predictions  
 Operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
----
 
 **The pipeline is cyclical: artifacts can regress to Legacy when admissibility fails.**
 **Examples → see Matrix repository**
-
----
 **What it is NOT**
 - Not a prompt framework
 - Not a knowledge base
 - Not an LLM wrapper
-
----
 **Research areas**
 - epistemic governance  
 - epistemic admissibility  
@@ -69,7 +63,5 @@ under the terms of the license. https://github.com/finkeissen/life
 
 ---
 Status: actively maintained · sequentially evolving · deliberately minimal
-
----
 → External references: https://x.com/EFinkeissen  
 → Books: https://www.amazon.de/s?k=finkeissen+ekkehard
