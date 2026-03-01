@@ -37,7 +37,7 @@ Versioned, falsifiable claims derived from the epistemic core. https://github.co
 
 ## Step 5 – Predictions  
 Operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
-
+---
 **The pipeline is cyclical: artifacts can regress to Legacy when admissibility fails.**
 **Examples → see Matrix repository**
 **What it is NOT**
