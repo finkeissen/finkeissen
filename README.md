@@ -1,4 +1,4 @@
-## Constraint-based Epistemic Pipeline für Reliable, Auditable, Maximally Truth-Seeking AI
+## Maximally Truth-Seeking Pipeline for Reliable & Auditable AI
 
 **Central entry point to the Ekkehard Finkeissen Research Architecture**
 - Coherent and constraint-based **epistemic framework**
@@ -14,7 +14,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 
 **What it is NOT:**
 - Not a prompt framework
-- Not an absolute or unquestionable knowledge base
+- Not an absolute or unquestionable knowledge-base
 - Not an LLM wrapper
 
 **Research areas:**
