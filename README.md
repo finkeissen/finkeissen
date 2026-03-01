@@ -58,7 +58,7 @@ Operationally verifiable projections derived from hypotheses and matrix. https:/
 
 ---
 ## Step 6 - The Art of Life
-An architectural art project based on the research program, yet formally independent. This project is open to thoughtful contributions
+Several art projects — grounded in the research program, yet formally independent. This project is open to thoughtful contributions
 under the terms of the license. https://github.com/finkeissen/life
 
 ---
