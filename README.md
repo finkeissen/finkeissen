@@ -8,7 +8,24 @@
 - Actively exploring pathways to **stabilize AI systems** (e.g. LLMs) against hallucinations and unbound generalizations via epistemic constraints
 Modern AI systems produce claims without explicit epistemic binding. This pipeline enforces context-bound admissibility as a hard constraint.
 ---
-The following pipeline is a **constraint architecture for epistemic governance** in which admissibility precedes claims.
+The following cyclical pipeline is a **constraint architecture for epistemic governance** in which admissibility precedes claims:
+**The pipeline is cyclical:** artifacts can regress to Legacy when admissibility fails.
+**Examples:** → see Matrix repository
+**What it is NOT:**
+- Not a prompt framework
+- Not an absolute or unquestionable knowledge base
+- Not an LLM wrapper
+**Research areas:**
+- epistemic governance  
+- epistemic admissibility  
+- constraint-based reasoning  
+- knowledge provenance  
+- AI safety  
+- hallucination mitigation  
+- scientific workflows for AI  
+- verification of claims  
+- formal reasoning for LLM systems  
+- auditable decision systems
 
 ## Step 0 – Legacy  
 Active sink for inadmissible or unresolved artifacts. https://github.com/finkeissen/legacy
@@ -37,25 +54,6 @@ Versioned, falsifiable claims derived from the epistemic core. https://github.co
 
 ## Step 5 – Predictions  
 Operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
-
----
-**The pipeline is cyclical: artifacts can regress to Legacy when admissibility fails.**
-**Examples → see Matrix repository**
-**What it is NOT**
-- Not a prompt framework
-- Not a knowledge base
-- Not an LLM wrapper
-**Research areas**
-- epistemic governance  
-- epistemic admissibility  
-- constraint-based reasoning  
-- knowledge provenance  
-- AI safety  
-- hallucination mitigation  
-- scientific workflows for AI  
-- verification of claims  
-- formal reasoning for LLM systems  
-- auditable decision systems
 
 ---
 ## Step 6 - The Art of Life
