@@ -2,7 +2,7 @@
 
 **Central entry point to the Ekkehard Finkeissen Research Architecture**
 - Coherent and constraint-based **epistemic framework**
-- Infrastructure for auditable **knowledge and decision systems**.
+- Infrastructure for auditable **knowledge and decision systems**
 - The repositories together form one **pipeline** and must be interpreted together
 - **Core Principle**: Any statement not explicitly bound to a concrete problem context is treated as epistemically inadmissible → processing stops
 - Actively exploring pathways to **stabilize AI systems** (e.g. LLMs) against hallucinations and unbound generalizations via epistemic constraints
@@ -11,10 +11,12 @@ Modern AI systems produce claims without explicit epistemic binding. This pipeli
 The following cyclical pipeline is a **constraint architecture for epistemic governance** in which admissibility precedes claims:
 **The pipeline is cyclical:** artifacts can regress to Legacy when admissibility fails.
 **Examples:** → see Matrix repository
+
 **What it is NOT:**
 - Not a prompt framework
 - Not an absolute or unquestionable knowledge base
 - Not an LLM wrapper
+
 **Research areas:**
 - epistemic governance  
 - epistemic admissibility  
