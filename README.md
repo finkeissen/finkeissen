@@ -58,8 +58,8 @@ Versioned, falsifiable claims derived from the epistemic core. https://github.co
 Operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
 
 ---
-## Step 6 - Art of Life
-Several art projects — grounded in the research program, yet formally independent. This project is open to thoughtful contributions
+## Step 6 - The LIFE Art Framework
+Framework and art projects about life — grounded in the research-program, yet not formally bound. Contributions are welcome - if they operate under the architectural constraints of this repository.
 under the terms of the license. https://github.com/finkeissen/life
 
 ---
