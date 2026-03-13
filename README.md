@@ -59,7 +59,7 @@ Operationally verifiable projections derived from hypotheses and matrix. https:/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-## Step 6 – invest  
+## Step 6 – Invest  
 Generalized investment grammar: deliberate allocation of scarce resources (time, energy, attention, trust, health, coordination, …) toward future gain under uncertainty – beyond finance.  
 Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects.  
 https://github.com/finkeissen/invest
