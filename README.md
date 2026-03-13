@@ -57,8 +57,15 @@ Versioned, falsifiable claims derived from the epistemic core. https://github.co
 ## Step 5 – Predictions  
 Operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
+
+## Step 6 – invest  
+Generalized investment grammar: deliberate allocation of scarce resources (time, energy, attention, trust, health, coordination, …) toward future gain under uncertainty – beyond finance.  
+Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects.  
+https://github.com/finkeissen/invest
+
 ---
-## Step 6 - The LIFE Art Framework
+## Step 7 - The LIFE Art Framework
 Framework and art projects about life — grounded in the research-program, yet not formally bound. Contributions are welcome - if they operate under the architectural constraints of this repository.
 under the terms of the license. https://github.com/finkeissen/life
 
