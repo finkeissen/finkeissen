@@ -64,7 +64,7 @@ Generalized investment grammar: deliberate allocation of scarce resources (time,
 Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects.  
 https://github.com/finkeissen/invest
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
 ---
 
