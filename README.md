@@ -1,5 +1,7 @@
 ## Maximally Truth-Seeking Pipeline for Reliable & Auditable AI
 
+Uncovering hidden assumptions – enforcing epistemic admissibility at every step
+
 **Central entry point to the Ekkehard Finkeissen Research Architecture**
 - Coherent and constraint-based **epistemic framework**
 - Infrastructure for auditable **knowledge and decision systems**
