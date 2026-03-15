@@ -68,7 +68,7 @@ https://github.com/finkeissen/invest
 
 ---
 
-## The LIFE Art Framework - observing the pipeline
+## The LIFE Art Framework - observing self-reflection
 Framework and art projects about life — grounded in the research-program, yet not formally bound. Contributions are welcome - if they operate under the architectural constraints of this repository.
 under the terms of the license. https://github.com/finkeissen/life
 
