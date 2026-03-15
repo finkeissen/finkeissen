@@ -28,6 +28,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 - verification of claims  
 - formal reasoning for LLM systems  
 - auditable decision systems
+- uncover hidden assumptions
 
 ## Step 0 – Legacy  
 Active sink for inadmissible or unresolved artifacts. https://github.com/finkeissen/legacy
