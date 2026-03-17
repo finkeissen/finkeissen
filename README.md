@@ -10,7 +10,7 @@
 - Actively exploring pathways to **stabilize AI systems** (e.g. LLMs) against hallucinations and unbound generalizations via epistemic constraints
 Modern AI systems produce claims without explicit epistemic binding. This pipeline enforces context-bound admissibility as a hard constraint.
 
-This pipeline enforces epistemic governance through:
+**This pipeline** enforces epistemic governance through:
 - Explicit binding of every statement to a concrete problem context
 - Hard STOP conditions on unbound generalizations
 - Traceable knowledge provenance and audit trails
