@@ -1,6 +1,6 @@
 ## Maximally Truth-Seeking Pipeline for Reliable & Auditable AI
 
-**Core mission**: uncover hidden assumptions – enforcing epistemic admissibility at every step
+**Core mission:** Uncover hidden assumptions before they support hallucinations
 
 **Central entry point** to the **Ekkehard Finkeissen Research Architecture**
 - Coherent and constraint-based **epistemic framework**
@@ -9,8 +9,6 @@
 - **Core Principle**: Any statement not explicitly bound to a concrete problem context is treated as epistemically inadmissible → processing stops
 - Actively exploring pathways to **stabilize AI systems** (e.g. LLMs) against hallucinations and unbound generalizations via epistemic constraints
 Modern AI systems produce claims without explicit epistemic binding. This pipeline enforces context-bound admissibility as a hard constraint.
-
-**Core mission: Uncovering hidden assumptions before they support hallucinations**
 
 This pipeline enforces epistemic governance through:
 - Explicit binding of every statement to a concrete problem context
