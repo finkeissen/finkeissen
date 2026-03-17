@@ -1,6 +1,6 @@
 ## Maximally Truth-Seeking Pipeline for Reliable & Auditable AI
 
-**Core mission**: Uncovering hidden assumptions – enforcing epistemic admissibility at every step
+**Core mission**: uncover hidden assumptions – enforcing epistemic admissibility at every step
 
 **Central entry point** to the **Ekkehard Finkeissen Research Architecture**
 - Coherent and constraint-based **epistemic framework**
