@@ -2,7 +2,7 @@
 
 **Core mission:** Uncover hidden assumptions before they support hallucinations
 
-**Central entry point** to the **Ekkehard Finkeissen Research Architecture**
+Central entry point to the **Ekkehard Finkeissen Research Architecture**
 - Coherent and constraint-based **epistemic framework**
 - Infrastructure for auditable **knowledge and decision systems**
 - The repositories together form one **pipeline** and must be interpreted together
