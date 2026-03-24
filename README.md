@@ -69,7 +69,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
 ## Step 6 – Invest
-**Action**: generalized investment grammar: deliberate allocation of scarce resources (time, energy, attention, trust, health, coordination, money,…) toward future gain under uncertainty – beyond finance. Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects. https://github.com/finkeissen/invest
+**Action**: generalized investment grammar. Deliberate allocation of scarce resources (time, energy, attention, trust, health, coordination, money,…) toward future gain under uncertainty – beyond finance. Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects. https://github.com/finkeissen/invest
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
