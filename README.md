@@ -48,7 +48,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface
 
-## 📊 Step 2 – Matrix-Management-System (MMS)
+## ⚙️ Step 2 – Matrix-Management-System (MMS)
 **Knowledge-management**: constraint execution layer enforcing epistemic governance across artifacts. https://github.com/finkeissen/mms
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
