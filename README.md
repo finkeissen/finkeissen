@@ -43,39 +43,44 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
-## Step 1 – Research-Program
+## 🔬 Step 1 – Research-Program
 **Foundation**: epistemic admissibility rules, STOP conditions, and core grammar. https://github.com/finkeissen/research-program
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface
 
-## Step 2 – Matrix-Management-System (MMS)
+## 📊 Step 2 – Matrix-Management-System (MMS)
 **Knowledge-management**: constraint execution layer enforcing epistemic governance across artifacts. https://github.com/finkeissen/mms
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
-## Step 3 – Matrix
+## 🧩 Step 3 – Matrix
 **Knowledge**: matrix registers admissible knowledge artifacts with their originating context. https://github.com/finkeissen/matrix
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
-## Step 4 – Hypotheses
+## 🔍 Step 4 – Hypotheses
 **New ideas**: versioned, falsifiable claims derived from the epistemic core. https://github.com/finkeissen/hypotheses
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
-## Step 5 – Predictions
+## 📈 Step 5 – Predictions
 **Planning**: operationally verifiable projections derived from hypotheses and matrix. https://github.com/finkeissen/predictions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
-## Step 6 – Invest
-**Action**: generalized investment grammar. Deliberate allocation of scarce resources (time, energy, attention, trust, health, coordination, money,…) toward future gain under uncertainty – beyond finance. Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects. https://github.com/finkeissen/invest
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
 ---
 
-## The LIFE Art Framework - observing the self-reflecting pipeline (intuition)
+## Application
+
+**📚 Learn**  
+Practical training and mastery of the pipeline. Turning theory into skill through deliberate practice, case studies, and building epistemic discipline. https://github.com/finkeissen/learn
+
+## 🚀 Invest
+**Action**: generalized investment grammar. Deliberate allocation of scarce resources (time, energy, attention, trust, health, coordination, money,…) toward future gain under uncertainty – beyond finance. Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects. https://github.com/finkeissen/invest
+
+## 🧬 The LIFE Art Framework - observing the self-reflecting pipeline (intuition)
 **Intuition**: Framework and art projects about life — grounded in the research-program, yet not formally bound. Contributions are welcome - if they operate under the architectural constraints of this repository. https://github.com/finkeissen/life
 
 ---
