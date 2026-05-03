@@ -38,7 +38,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 - auditable decision systems
 - uncover hidden assumptions
 
-## Step 0 – Legacy
+## 🗑️ Step 0 – Legacy
 **Garbage collection**: Active sink for inadmissible or unresolved artifacts. https://github.com/finkeissen/legacy
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
