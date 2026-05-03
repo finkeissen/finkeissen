@@ -74,7 +74,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 
 # Application
 
-## 📚 Learn**  
+## 📚 Learn
 Practical training and mastery of the pipeline. Turning theory into skill through deliberate practice, case studies, and building epistemic discipline. https://github.com/finkeissen/learn
 
 ## 🚀 Invest
