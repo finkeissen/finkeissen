@@ -46,7 +46,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 ## 🔬 Step 1 – Research-Program
 **Foundation**: epistemic admissibility rules, STOP conditions, and core grammar. https://github.com/finkeissen/research-program
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
 ## ⚙️ Step 2 – Matrix-Management-System (MMS)
 **Knowledge-management**: constraint execution layer enforcing epistemic governance across artifacts. https://github.com/finkeissen/mms
