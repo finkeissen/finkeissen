@@ -27,18 +27,18 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 - Not an absolute or unquestionable knowledge-base
 - Not an LLM wrapper
 
-**Pipeline Status (July 2026)**: The entire architecture is **actively maintained** and evolves sequentially. It remains in a deliberate research and refinement phase.
+**Pipeline Status (July 2026)**: The architecture is **actively maintained** and evolves sequentially. It is intentionally still in a research and refinement phase.
 
-**Current Maturity Levels**
-- **research-program** — Mature conceptual foundation and epistemic rules (stable core)
-- **mms** — Normative requirements and governance contract (stable specification, implementation outside this repo)
-- **matrix** — First curated instantiations and knowledge structures (in active development)
-- **hypotheses** — Early stage with structure and initial falsifiable claims
+**Current Maturity**
+- **research-program** — Mature epistemic core and admissibility rules (conceptually stable)
+- **mms** — Normative requirements and prompt-based reference implementation are stable; full native Python implementation is under active development but not yet complete
+- **matrix** — First curated knowledge instantiations (in active development)
+- **hypotheses** — Early stage with initial falsifiable claims
 - **predictions** — Early stage with verifiable projection artifacts
-- **legacy** — Intentionally non-operational archive (stable in its role)
-- **learn / invest / life** — Application and intuition layers (varying maturity)
+- **legacy** — Stable non-operational archive
+- **learn / invest / life** — Application layers (varying maturity)
 
-**Overall Status**: Actively maintained · Sequentially evolving · Deliberately minimal · Not yet a production-ready framework. Contributions are welcome if they respect the architectural constraints and admissibility rules defined in the research-program.
+**Overall**: Actively maintained · Sequentially evolving · Deliberately minimal. Not yet a production-ready framework. Contributions welcome under the architectural constraints of the research-program.
 
 **The Epistemic Problem: Human Defensiveness & AI Hallucination**: Human researchers, driven by conscious or unvoiced defense mechanisms (such as rationalization or selective bias), routinely omit the exact boundaries of their claims to protect their hypotheses. Modern AI systems ingest these un-bound generalizations and scale them into hallucinations. This pipeline acts as an uncompromising logical counter-measure.
 
@@ -66,7 +66,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️
 
 ## ⚙️ Step 2 – Matrix-Management-System (MMS)
-**Knowledge-management**: constraint execution layer enforcing epistemic governance across artifacts. https://github.com/finkeissen/mms
+**Constraint execution and governance layer**: Enforces epistemic admissibility rules, STOP conditions, and knowledge transitions across the pipeline. The normative specification and prompt-based reference implementation are stable and usable. A complete native Python DBMS-style implementation is under active development but not yet finished.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
