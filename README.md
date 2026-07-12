@@ -27,8 +27,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 - Not an absolute or unquestionable knowledge-base
 - Not an LLM wrapper
 
-**The Epistemic Problem: Human Defensiveness & AI Hallucination**
-Human researchers, driven by conscious or unvoiced defense mechanisms (such as rationalization or selective bias), routinely omit the exact boundaries of their claims to protect their hypotheses. Modern AI systems ingest these un-bound generalizations and scale them into hallucinations. This pipeline acts as an uncompromising logical counter-measure.
+**The Epistemic Problem: Human Defensiveness & AI Hallucination**: Human researchers, driven by conscious or unvoiced defense mechanisms (such as rationalization or selective bias), routinely omit the exact boundaries of their claims to protect their hypotheses. Modern AI systems ingest these un-bound generalizations and scale them into hallucinations. This pipeline acts as an uncompromising logical counter-measure.
 
 **Research areas:**
 - epistemic governance  
@@ -95,5 +94,4 @@ Status: actively maintained · sequentially evolving · deliberately minimal
 → Books: https://www.amazon.de/s?k=finkeissen+ekkehard
 
 
-**Current Research Stage**
-The architectural framework is conceptually defined across all steps (0–5). Current active work focuses on the formal grammar of the `research-program` constraints and the execution logic of the `mms` pipeline interface. Validation is iterative: we test the pipeline by feeding it historically flawed scientific papers to verify if the hard STOP conditions reliably trigger where human peer-review historically failed.
+**Current Research Stage**: The architectural framework is conceptually defined across all steps (0–5). Current active work focuses on the formal grammar of the `research-program` constraints and the execution logic of the `mms` pipeline interface. Validation is iterative: we test the pipeline by feeding it historically flawed scientific papers to verify if the hard STOP conditions reliably trigger where human peer-review historically failed.
