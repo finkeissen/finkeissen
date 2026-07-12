@@ -27,6 +27,19 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 - Not an absolute or unquestionable knowledge-base
 - Not an LLM wrapper
 
+**Pipeline Status (July 2026)**: The entire architecture is **actively maintained** and evolves sequentially. It remains in a deliberate research and refinement phase.
+
+**Current Maturity Levels**
+- **research-program** — Mature conceptual foundation and epistemic rules (stable core)
+- **mms** — Normative requirements and governance contract (stable specification, implementation outside this repo)
+- **matrix** — First curated instantiations and knowledge structures (in active development)
+- **hypotheses** — Early stage with structure and initial falsifiable claims
+- **predictions** — Early stage with verifiable projection artifacts
+- **legacy** — Intentionally non-operational archive (stable in its role)
+- **learn / invest / life** — Application and intuition layers (varying maturity)
+
+**Overall Status**: Actively maintained · Sequentially evolving · Deliberately minimal · Not yet a production-ready framework. Contributions are welcome if they respect the architectural constraints and admissibility rules defined in the research-program.
+
 **The Epistemic Problem: Human Defensiveness & AI Hallucination**: Human researchers, driven by conscious or unvoiced defense mechanisms (such as rationalization or selective bias), routinely omit the exact boundaries of their claims to protect their hypotheses. Modern AI systems ingest these un-bound generalizations and scale them into hallucinations. This pipeline acts as an uncompromising logical counter-measure.
 
 **Research areas:**
