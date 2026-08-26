@@ -91,11 +91,8 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 
 # Application
 
-## 📚 Learn
-**Training**: practical training and mastery of knowledige in general and the pipeline in specific. Turning theory into skill through deliberate practice, case studies, and building epistemic discipline. https://github.com/finkeissen/learn
-
 ## 🚀 Invest
-**Action**: generalized investment grammar. Deliberate allocation of scarce resources (time, energy, attention, trust, health, coordination, money,…) toward future gain under uncertainty – beyond finance. Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects. https://github.com/finkeissen/invest
+**Action**: generalized investment grammar. Deliberate allocation of scarce resources (time, energy, attention, trust, health, coordination, money,…) toward learning and future gain under uncertainty – beyond finance. Explicit multi-level evaluation: person ↔ group, trade-offs, collateral damage, distributional effects. https://github.com/finkeissen/invest
 
 ## 🧬 The LIFE Art Framework - observing the self-reflecting pipeline (intuition)
 **Intuition**: Framework and art projects about life — grounded in the research-program, yet not formally bound. Contributions are welcome - if they operate under the architectural constraints of this repository. https://github.com/finkeissen/life
