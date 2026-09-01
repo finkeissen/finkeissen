@@ -67,6 +67,7 @@ The following cyclical pipeline is a **constraint architecture for epistemic gov
 
 ## ⚙️ Step 2 – Matrix-Management-System (MMS)
 **Constraint execution and governance layer**: Enforces epistemic admissibility rules, STOP conditions, and knowledge transitions across the pipeline. The normative specification and prompt-based reference implementation are stable and usable. A complete native Python DBMS-style implementation is under active development but not yet finished.
+https://github.com/finkeissen/mms
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ interface ⬇️&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if STOP ➡️ put in Legacy
 
