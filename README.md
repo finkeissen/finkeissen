@@ -102,7 +102,7 @@ https://github.com/finkeissen/mms
 Status: actively maintained · sequentially evolving · deliberately minimal
 
 → External references: https://x.com/EFinkeissen  
-→ Books: https://www.amazon.de/s?k=finkeissen+ekkehard
+→ Books: https://www.amazon.de/dp/B0F74J5ZD3
 
 
 **Current Research Stage**: The architectural framework is conceptually defined across all steps (0–5). Current active work focuses on the formal grammar of the `research-program` constraints and the execution logic of the `mms` pipeline interface. Validation is iterative: we test the pipeline by feeding it historically flawed scientific papers to verify if the hard STOP conditions reliably trigger where human peer-review historically failed.
